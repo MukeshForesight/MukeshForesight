@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukesh
 - 👀 I’m interested in Data analytics, software developement, Business analysis, UI/UX and Machine Learning.
-- 📫 Reach me on - mukesh@foresight-analytics.com
+- 📫 Reach me @ - mukesh@foresight-analytics.com
 
 <!---
 MukeshForesight/MukeshForesight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
